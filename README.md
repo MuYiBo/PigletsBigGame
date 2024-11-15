@@ -27,8 +27,8 @@ We are currently in the early stages of development, focusing on creating a seam
 - Regular updates based on user feedback
 
 ## Contact 📫
-Website: [Piglet's Big Game Online](https://pigletsbiggame.net/)
-Project Link: [GitHub Repository](https://github.com/MuYiBo/PigletsBigGame)
+- Website: [Piglet's Big Game Online](https://pigletsbiggame.net/)
+- Project Link: [GitHub Repository](https://github.com/MuYiBo/PigletsBigGame)
 
 ## Acknowledgments 🙏
 
